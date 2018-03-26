@@ -7,6 +7,7 @@ def printMenu(): #Funzione per la stampa del menu
     print("3) Show tasks")
     print("4) Exit")
 
+
 tasks = list()
 
 while cmd != '4':
